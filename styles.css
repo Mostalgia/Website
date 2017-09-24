@@ -1,0 +1,42 @@
+body {
+	position: relative;
+	color: #fff;
+}
+
+/* Scrollspy stuff for header */
+
+#home {
+	padding-top: 50px;
+	background-color: #FB6B00;
+}
+
+#info {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #70685F;/*#f4511e;*/
+}
+
+#stuff {
+	padding-top: 50px;
+	background-color: #443728;
+}
+
+#contact {
+	padding-top: 50px;
+	background-color: #ff9800;
+}
+
+#links {
+	padding-top: 30px;
+	background-color: #70685F;
+}
+
+.jumbotron {
+	background-color: #FB6B00;
+	color: #fff;
+	padding: 100px 25px;
+}
+
+.containter-fluid {
+	padding: 60px 50px;
+}
